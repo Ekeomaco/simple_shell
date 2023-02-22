@@ -1,1 +1,1 @@
-C - Simple Shell Team Project by Emmanuella Oghenekaro and Chibuike Precious
+C - Simple Shell Team Project by Oghenekaro Emmanuella and Chibuike Precious
