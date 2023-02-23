@@ -40,8 +40,7 @@ int execute(data_of_program *data)
 			if (WIFEXITED(status))
 				errno = WEXITSTATUS(status);
 			else if (WIFSIGNALED(status))
-		
-		errno = 128 + WTERMSIG(status);
+				errno = 128 + WTERMSIG(status);
 		}
 	}
 	return (0);
