@@ -150,5 +150,5 @@ void str_reverse(char *string)
 		hold = string[i];
 		string[i++] = string[length];
 		string[length--] = hold;
-	
+	}
 }
